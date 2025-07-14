@@ -1,6 +1,6 @@
 # Hey there, I'm Helindu Senadheera
 
-# I’m a coder, photographer, and lifelong learner.
+## I’m a coder, photographer, and lifelong learner.
 # GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=HelinduS&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
